@@ -48,7 +48,73 @@ I will explain further next JSON file, retrieved earlier:
 ```
 products(SAMSUNG 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED Computer Monitor, 3840 x 1080p Resolution, 1ms Response, FreeSync 2 with HDR,Black)_1712770654253
 ```
+In this repo - the JSON file was renamed to:  SAMSUNG_PRODUCT.json
 
+As there are many details, please use next tool to read the file easier: https://jsonformatter.curiousconcept.com/
+Steps:  
+1. Open https://jsonformatter.curiousconcept.com/
+2. Insert the file content into the tool at "JSON Data/URL"
+3. Click PROCESS
+4. At: "Formatted JSON Data" you will be able to see better the JSON content.
+5. It looks like:
+```
+[
+   {
+      "position":{
+         "page":1,
+         "position":1,
+         "global_position":1
+      },
+      "asin":"B07PZR2YY4",
+      "price":{
+         "discounted":false,
+         "current_price":0,
+         "currency":"USD",
+         "before_price":0,
+         "savings_amount":0,
+         "savings_percent":0
+      },
+      "reviews":{
+         "total_reviews":0,
+         "rating":4.4
+      },
+      "url":"https://www.amazon.com/dp/B07PZR2YY4",
+      "score":0,
+      "sponsored":false,
+      "amazonChoice":false,
+      "bestSeller":false,
+      "amazonPrime":false
+   },
+   {
+      "position":{
+         "page":1,
+         "position":2,
+         "global_position":2
+      },
+      "asin":"B0BM7WNLPL",
+      "price":{
+         "discounted":false,
+         "current_price":0,
+         "currency":"USD",
+         "before_price":0,
+         "savings_amount":0,
+         "savings_percent":0
+      },
+      "reviews":{
+         "total_reviews":0,
+         "rating":4.5
+      },
+      "url":"https://www.amazon.com/dp/B0BM7WNLPL",
+      "score":0,
+      "sponsored":false,
+      "amazonChoice":false,
+      "bestSeller":false,
+      "amazonPrime":false
+   },
+........
+........
+```
+As can be seen there are so many details and for Industrial Project, at this moment we use only: id, title, price, description, category, image, rating->rate & rating->count.
 
 
 ### This scrapper is inspired from GitHub amazon-scrappers, it does have some updateds made by team group projet members but this scrapper is inspired from GIT.
