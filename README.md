@@ -40,5 +40,15 @@ amazon-buddy asin B072C7TNC5 -n 1 --filetype json
 In my case next file was saved: asin(B072C7TNC5)_1712771589712.json
 
 
+### What can we do with this website scrapper?
+We obtain real data for any product desired from Amazon in this case (can be mapped to any website) and has / have a JSON format.
+
+### How does product details retried look like?
+I will explain further next JSON file, retrieved earlier:
+```
+products(SAMSUNG 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED Computer Monitor, 3840 x 1080p Resolution, 1ms Response, FreeSync 2 with HDR,Black)_1712770654253
+```
+
+
 
 ### This scrapper is inspired from GitHub amazon-scrappers, it does have some updateds made by team group projet members but this scrapper is inspired from GIT.
