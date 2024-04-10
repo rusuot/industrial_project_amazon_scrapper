@@ -1,0 +1,1 @@
+# industrial_project_crud_api_firebaseindustrial_project_amazon_scrapper
