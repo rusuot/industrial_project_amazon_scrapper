@@ -7,7 +7,8 @@ Start project with:
 </ul>
 
 ### Purpose of this amazon scrapper
-As websites scrapping is completly legal, without touching / retrieving any sensitive data such as credentials, logins  and so on, a website scrapping details has it's purpose when product details from specific websites are needed. \
+As websites scrapping is completly legal, without touching  retrieving any sensitive data such as credentials, \
+logins  and so on, a website scrapping details has it's purpose when product details from specific websites are needed. \
 
 Let's suppose we need a JSON file with all details related to an amazon product. \
 This kind of JSON file is needed for example for Industrial Project CRUD API Firebase, and further to the website developed for this whole project. \
