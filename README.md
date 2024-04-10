@@ -116,5 +116,15 @@ Steps:
 ```
 As can be seen there are so many details and for Industrial Project, at this moment we use only: id, title, price, description, category, image, rating->rate & rating->count.
 
+###
+So, now we have the products details saved in JSON files, but we need an API.
+We have at this moment the option to work in two ways:
+1. FakeAPI OR create a Fake JSON API(using https://mocki.io/fake-json-api ) using this files  (much easier to fetch directly from these fake APIs containing real amanzon data)
+2. We have as well the CRUD API Firebase done for Industrial Project, with which we can POST (create) products in DB using these JSON details.
 
-### This scrapper is inspired from GitHub amazon-scrappers, it does have some updateds made by team group projet members but this scrapper is inspired from GIT.
+Fetch from fake API simulates data retrival form amazon, and with CRUD API Firebase we can add JSON contents into Firebase DB, as well
+Most probably the Industrial Project will be a combination of these too.
+
+
+
+##### This scrapper is inspired from GitHub amazon-scrappers, it does have some updateds made by team group projet members but this scrapper is inspired from GIT.
