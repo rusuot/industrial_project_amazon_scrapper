@@ -14,8 +14,10 @@ Example to run to retrieve a product JSON with asin B072C7TNC5 :
 How to "read" pretty the JSON, use next online tool:
 https://jsonformatter.curiousconcept.com/
 
-How to check product asin  B072C7TNC5 on Amazon:
---> Search in google "amazon B072C7TNC5" and open the first link. Now you should be able to visualize all data from JSON retrived above, directly from Amazon offcial site.
+How to check product asin  B072C7TNC5 on Amazon:\
+--> Search in google "amazon B072C7TNC5" and open the first link.\ 
+Now you should be able to visualize all data from JSON retrived above, directly from Amazon offcial site.\
+This link is in fact:  https://www.amazon.com/Samsung-49-Inch-Curved-Monitor-LC49HG90DMNXZA/dp/B072C7TNC5 
 
 __________________________________________________________________
 
