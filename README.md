@@ -10,7 +10,7 @@ Example to run to retrieve a product JSON with asin B072C7TNC5 :
 <ul>
 <li>amazon-buddy asin B072C7TNC5 -n 1 --filetype json</li>
 </ul>
-
+__________________________________________________________________
 ### Purpose of this amazon scrapper
 As websites scrapping is completly legal, without touching  retrieving any sensitive data such as credentials, \
 logins  and so on, a website scrapping details has it's purpose when product details from specific websites are needed. \
