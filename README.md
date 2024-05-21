@@ -10,6 +10,12 @@ Example to run to retrieve a product JSON with asin B072C7TNC5 :
 <ul>
 <li>amazon-buddy asin B072C7TNC5 -n 1 --filetype json</li>
 </ul>
+
+How to "read" pretty the JSON, use next online tool:
+https://jsonformatter.curiousconcept.com/
+
+
+
 __________________________________________________________________
 
 
