@@ -16,13 +16,15 @@ https://jsonformatter.curiousconcept.com/
 
 How to check product asin  B072C7TNC5 on Amazon:\
 --> Search in google "amazon B072C7TNC5" and open the first link.
+This link is in fact:  https://www.amazon.com/Samsung-49-Inch-Curved-Monitor-LC49HG90DMNXZA/dp/B072C7TNC5 
+
 
 Now you should be able to visualize all data from JSON retrived above, directly from Amazon offcial site.
 
 Example:
 https://github.com/rusuot/industrial_project_amzn_web_scrapper/blob/main/asin(B072C7TNC5)_1712771589712.json 
 
-This link is in fact:  https://www.amazon.com/Samsung-49-Inch-Curved-Monitor-LC49HG90DMNXZA/dp/B072C7TNC5 
+
 
 __________________________________________________________________
 
