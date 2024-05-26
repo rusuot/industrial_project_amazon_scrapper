@@ -148,3 +148,4 @@ Most probably the Industrial Project will be a combination of these too.
 
 
 ##### This scrapper is inspired from GitHub amazon-scrappers, it does have some updateds made by team group projet members but this scrapper is inspired from GIT.
+Inspired from:  https://github.com/linconrezende/amazon-scraper 
